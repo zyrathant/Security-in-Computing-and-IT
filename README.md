@@ -18,5 +18,5 @@ pip install cryptography psutil tabulate post-quantum-crypto-toolkit
 
 ### Usage
 Run the script to perform validation checks and benchmarks:
-**python3 security_benchmark.py**
-The script outputs a summary table to the console and updates the CSV file.
+**python3 comparative_analysis.py**
+The script outputs a summary table to the console and updates the CSV file, comparative_results.csv
